@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/Toolbox/서버접속.html",
+    "href": "posts/Toolbox/서버접속.html",
+    "title": "서버접속",
+    "section": "",
+    "text": "서버접속\n\nssh {name}@0.0.0.0\n\n\n\n\n블로그 생성\n\nquarto create-project --type website:blog\ngit add .\ngit commit -m .\ngit push\nquarto publish gh-pages\n\n\n\n수정\n\ngit add .\ngit commit -m .\ngit push\nquarto publish --no-browser --no-prompt"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Baek blog",
+    "section": "",
+    "text": "Baek’s blog\nThis is Baek’s blog !!\n\nlinks\n\nStudyJBNU Class\n\n\n\ngithub\n\n\n\n\ngithub\n\n\n\n\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nJan 4, 2024\n\n\nExample\n\n\n백경민 \n\n\n\n\nJan 2, 2024\n\n\n서버접속\n\n\n백경민 \n\n\n\n\n\nNo matching items"
+  }
+]
